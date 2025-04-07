@@ -14,4 +14,17 @@ Este projeto em Python realiza o **download automático de arquivos PDF** da pá
 ---
 
 ## 📁 Estrutura final da pasta
-
+```
+baixador_editais_concursos/
+│
+├── Editais_ConcursosNacional/
+│   ├── Editais/
+│   ├── Retificacoes/
+│   ├── Convocacoes/
+│   └── Resultados/
+│
+├── Download_Editais.py
+├── README.md
+└── requirements.txt
+```
+adiciona estrutura da pasta ao README
